@@ -32,8 +32,6 @@ I am a first-year PhD candidate at HKUST NLP Group, supervised by Prof. Junxian 
 
 ## Publications
 
-\* indicates equal contribution; my co-authors and I have agreed on the authorship order.
-
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (Arxiv, 2025) — *First author.*
    Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
 
